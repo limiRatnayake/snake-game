@@ -74,7 +74,7 @@ body,
     display: none;
 }
 
-.game-border-3, .logo{
+.game-border-3, #logo{
     background-color: #c4cfa3;
 }
 
@@ -87,6 +87,6 @@ body,
     border: #999 5px solid;
 }
 
-.logo{
+#logo{
     position: absolute;
 }
